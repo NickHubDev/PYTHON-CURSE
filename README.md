@@ -197,7 +197,7 @@ Even imperfectly.
 
 <div align="center">
 
-#### $$f(x) = \frac{y}{x}$$
+## $$f(x) = \frac{y}{x}$$
 
 > ***Programming is not magic.***  
 > ***It is persistence transformed into logic.***
