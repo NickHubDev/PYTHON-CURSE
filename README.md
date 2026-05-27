@@ -169,6 +169,7 @@ In the future, community spaces such as forums or Reddit groups may be created s
 - 💬 Discuss solutions
 - 🌱 Learn together
 
+
 > **Contact Email:** nizolax.homehub@gmail.com
 
 ---
