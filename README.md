@@ -44,7 +44,7 @@ This repository aims to support multiple languages, including:
 - 🧩 Intermediate programmers reviewing concepts
 - 🚀 Anyone who wants a cleaner and more practical learning experience
 
-Even if you already know Python, this repository can still help you revisit specific concepts quickly.
+**Even if you already know Python, this repository can still help you revisit specific concepts quickly.**
 
 ---
 
@@ -52,28 +52,29 @@ Even if you already know Python, this repository can still help you revisit spec
 
 This repository follows a very important principle:
 
-# **Understand first. Memorize later.**
+## **Understand first. Memorize later.**
 
 The recommended learning process is:
 
 1. 📚 Read the theory carefully
 2. 💻 Explore the `.py` example files
 3. 🧪 Experiment with the code yourself
-4. 🛠 Practice using exercises and projects
+4. 🛠 Practice using exercises
 5. 🔍 Solve problems before looking at solutions
 6. 🧠 Analyze why the solution works the way it does
+7. 🤔 Finalize every single level with two final projects
 
 ---
 
-## ❌ Programming is NOT about copying code.
+#### ❌ Programming is NOT about copying code.
 
-## ✅ Programming IS about understanding logic.
+#### ✅ Programming IS about understanding logic.
 
 ---
 
 # ⚠️ Important Advice
 
-# **Do NOT copy solutions without trying first.**
+### **Do NOT copy solutions without trying first.**
 
 You will learn much faster by:
 
@@ -88,7 +89,7 @@ You will learn much faster by:
 
 # 🔥 The Most Important Rule
 
-# **NEVER GIVE UP UNTIL YOU SOLVE IT.**
+### **NEVER GIVE UP UNTIL YOU SOLVE IT.**
 
 Seriously.
 
@@ -123,8 +124,6 @@ Inside the repository you will find:
 - ✅ Solutions
 - 📚 Practical learning resources
 
-The goal is to connect **concepts with real practice** so knowledge becomes natural and long-term.
-
 ---
 
 # 🧩 Recommended Learning Order
@@ -140,14 +139,14 @@ Python Examples (.py)
    ↓
 Exercises
    ↓
-Projects
-   ↓
 Solutions Analysis
+   ↓
+Projects
 ```
 
 ---
 
-## ⚠️ Do not rush.
+# ⚠️ Do not rush.
 
 Take your time to **truly understand** each concept before moving forward.
 
@@ -155,11 +154,11 @@ Take your time to **truly understand** each concept before moving forward.
 
 # 🤝 Community & Feedback
 
-## **PYTHON CURSE is NOT an open-source project.**
+### **PYTHON CURSE is an open-source project.**
 
-The repository is not intended to be modified directly by contributors.
+The repository is intended to be modified directly by contributors.
 
-However, **feedback**, **corrections**, **suggestions** and detected inconsistencies are always welcome.
+Every single contribution or pull request for improve the project is accepted.
 
 In the future, community spaces such as forums or Reddit groups may be created so learners can:
 
@@ -193,8 +192,6 @@ Even slowly.
 Even imperfectly.
 
 # 🚀 Just keep moving forward.
-
----
 
 <div align="center">
 
